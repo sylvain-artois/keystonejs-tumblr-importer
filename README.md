@@ -1,2 +1,3 @@
-# Tumblr git remote add origin git@github.com:sylvain-artois/keystonejs-tumblr-importer.git
-         git push -u origin master
+# Keystonejs Tumblr Importer
+
+Use tumblr API to import blog post within KeystoneJS backend
